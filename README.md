@@ -1,9 +1,9 @@
-Hi 👋 Mijn naam is Dennis
+Hallo 👋 Mijn naam is Dennis
 =====================================
 
 * 🌍  Ik woon in Nederland
-* 🖥️  Kijk [hier](http://dennisfrankenhuizen.nl) voor mijn portofolio
-* ✉️  Mail mij via: [mail@dennisfrankenhuizen.nl](mailto:mail@dennisfrankenhuizen.nl)
+* 🖥️  Kijk [hier](https://dennisfrankenhuizen.nl) voor mijn portfolio
+* ✉️  Mail mij via: [dennisfrankenhuizen@gmail.com](mailto:dennisfrankenhuizen@gmail.com)
 
 ### Skills
 
